@@ -41,4 +41,4 @@ To set up the environment for running the notebooks and scripts in this reposito
    First, download the `requirements.yaml` file provided and create a conda environment using the following command:
 
    ```bash
-   conda env create -f requirements.yaml
+   conda env create -f environment.yml
