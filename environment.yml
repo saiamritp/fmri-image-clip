@@ -1,0 +1,14 @@
+name: bold5000_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nibabel
+  - nilearn
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - pip  # only if you need pip inside this environment
